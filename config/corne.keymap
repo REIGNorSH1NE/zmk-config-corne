@@ -208,7 +208,7 @@
             >;
         };
 
-        SYM {
+        Layer2 {
             display-name = "Symbols";
 
             // -----------------------------------------------------------------------------------------
@@ -225,7 +225,7 @@
             >;
         };
 
-        ADJ {
+        Layer3 {
             display-name = "System";
             bindings = <
 &kp F1  &kp F2        &kp F3        &kp F4        &kp F5      &kp F6            &kp C_VOLUME_UP  &trans  &trans  &trans  &trans       &trans
