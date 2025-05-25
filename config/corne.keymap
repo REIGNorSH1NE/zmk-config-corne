@@ -14,7 +14,8 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HML";
             #binding-cells = <2>;
-            bindings = <&kp>;
+            bindings = <&kp>, <&kp>;
+
             hold-trigger-key-positions = <16 15 14>;
             tapping-term-ms = <280>;
             quick-tap-ms = <175>;
@@ -25,7 +26,8 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HMR";
             #binding-cells = <2>;
-            bindings = <&kp>;
+            bindings = <&kp>, <&kp>;
+
             tapping-term-ms = <280>;
             quick-tap-ms = <175>;
             flavor = "balanced";
