@@ -206,7 +206,7 @@
 &kp BACKSPACE   &kp PRINTSCREEN  &trans    &trans        &trans           &trans           &kp DELETE  &kp N7           &kp N8  &kp N9  &kp ASTRK  &kp PLUS
 &kp TAB         &trans           &trans    &kp UP_ARROW  &browsertab      &kp PAGE_UP      &kp N0      &kp N4           &kp N5  &kp N6  &kp COMMA  &kp PERIOD
 &kp KP_NUMLOCK  &trans           &kp LEFT  &kp DOWN      &kp RIGHT_ARROW  &kp PAGE_DOWN    &trans      &kp N1           &kp N2  &kp N3  &kp EQUAL  &kp SLASH
-                                           &trans        &kp LEFT_SHIFT   &kp SPACE        &kp RET     &kp RIGHT_SHIFT  &trans
+                                           &trans        &trans           &kp SPACE        &kp RET     &kp RIGHT_SHIFT  &trans
             >;
         };
 
